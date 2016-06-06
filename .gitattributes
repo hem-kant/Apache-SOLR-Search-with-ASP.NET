@@ -6,6 +6,8 @@ Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/example/example-DIH
 Apache SOLR with ASP.NET/solr/conf/* linguist-vendored
 Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/contrib/extraction/src/test/resources/* linguist-vendored
 Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/docs/api/* linguist-vendored
+Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/docs/api/solr/org/apache/solr/search/class-use/* linguist-vendored
+Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/docs/api/solr/org/apache/solr/search/function/* linguist-vendored
 # Custom for Visual Studio
 *.cs     diff=csharp
 
