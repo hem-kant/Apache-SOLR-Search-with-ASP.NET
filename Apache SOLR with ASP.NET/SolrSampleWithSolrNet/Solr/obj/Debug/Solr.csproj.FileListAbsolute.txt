@@ -1,0 +1,5 @@
+C:\Projects\Tests\Solr\bin\Solr.dll
+C:\Projects\Tests\Solr\bin\Solr.pdb
+C:\Projects\Tests\Solr\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Tests\Solr\obj\Debug\Solr.dll
+C:\Projects\Tests\Solr\obj\Debug\Solr.pdb

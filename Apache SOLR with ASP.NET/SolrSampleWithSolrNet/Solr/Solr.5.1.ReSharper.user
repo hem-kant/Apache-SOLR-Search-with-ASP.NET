@@ -1,0 +1,360 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Web.config" caret="790" fromTop="28" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Site.Master.designer.cs" caret="2133" fromTop="23" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Scripts/f:jquery-1.4.1-vsdoc.js" caret="380" fromTop="0" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:connectionStrings.config" caret="209" fromTop="2" />
+      <File id="d:Miscellaneous Files/f:schema.xml/l:C!?solr?conf?schema.xml" caret="1101" fromTop="12" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Site.Master" caret="617" fromTop="14" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Default.aspx" caret="412" fromTop="6" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Player.cs" caret="74" fromTop="4" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Indexer.aspx" caret="0" fromTop="0" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:SearchResults.cs" caret="163" fromTop="8" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicSearcher.cs" caret="268" fromTop="13" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Extensions.cs" caret="1140" fromTop="42" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:SolrBaseRepository.cs" caret="303" fromTop="16" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Indexer.aspx.cs" caret="490" fromTop="22" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx" caret="519" fromTop="9" />
+      <File id="d:Miscellaneous Files/f:solrconfig.xml/l:C!?solr?conf?solrconfig.xml" caret="29962" fromTop="39" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Search.aspx.cs" caret="240" fromTop="6" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:PlayerRepository.cs" caret="932" fromTop="19" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="2089" fromTop="30" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:RemoveFromIndex.aspx" caret="360" fromTop="4" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Search.aspx" caret="285" fromTop="3" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx.cs" caret="1022" fromTop="36" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicIndexer.cs" caret="999" fromTop="31" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:RemoveFromIndex.aspx.cs" caret="518" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="833" fromTop="20" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="827" fromTop="33" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="628" fromTop="20" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="404" fromTop="18" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="1022" fromTop="39" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="1154" fromTop="37" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="1275" fromTop="29" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="1394" fromTop="38" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="663" fromTop="24" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx.cs" caret="477" fromTop="24" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx" caret="773" fromTop="16" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx" caret="469" fromTop="9" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicIndexer.cs" caret="586" fromTop="22" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicIndexer.cs" caret="803" fromTop="30" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicIndexer.cs" caret="374" fromTop="17" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx.cs" caret="957" fromTop="35" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx.cs" caret="474" fromTop="22" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx.cs" caret="866" fromTop="23" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx.cs" caret="958" fromTop="27" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="2196" fromTop="48" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:Toolbox.cs" caret="2089" fromTop="48" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:AddToIndex.aspx.cs" caret="820" fromTop="27" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicIndexer.cs" caret="1162" fromTop="39" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicIndexer.cs" caret="1148" fromTop="38" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:PlayerRepository.cs" caret="512" fromTop="25" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:PlayerRepository.cs" caret="781" fromTop="17" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/d:Classes/f:BasicIndexer.cs" caret="1164" fromTop="40" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:RemoveFromIndex.aspx" caret="355" fromTop="4" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:Search.aspx" caret="756" fromTop="14" />
+      <File id="4D154935-888E-49CF-A9B5-3C969ED2367F/f:RemoveFromIndex.aspx.cs" caret="589" fromTop="24" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="2" />
+      <Item value="string" priority="31" />
+      <Item value="public" priority="13" />
+      <Item value="BasicIndexer`0" priority="2" />
+      <Item value="this" priority="8" />
+      <Item value="_connString" priority="0" />
+      <Item value="_solrUrl" priority="0" />
+      <Item value="void" priority="13" />
+      <Item value="Names`0" priority="1" />
+      <Item value="var" priority="18" />
+      <Item value="ISolrOperations" priority="9" />
+      <Item value="new" priority="20" />
+      <Item value="SolrFieldsRepository`0" priority="0" />
+      <Item value="solrWorker" priority="11" />
+      <Item value="SolrNet" priority="0" />
+      <Item value="ResponseHeader`0" priority="0" />
+      <Item value="override" priority="6" />
+      <Item value="protected" priority="4" />
+      <Item value="BasicIndexer" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Configuration" priority="0" />
+      <Item value="ConfigurationSettings`0" priority="0" />
+      <Item value="indexer" priority="1" />
+      <Item value="BasicSearcher`0" priority="1" />
+      <Item value="connString" priority="2" />
+      <Item value="solrUrl" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="Name`0" priority="4" />
+      <Item value="QueryOptions" priority="0" />
+      <Item value="Rows" priority="0" />
+      <Item value="resultsPerPage" priority="1" />
+      <Item value="PreApplicationStartMethodAttribute`0" priority="0" />
+      <Item value="Start" priority="0" />
+      <Item value="pageNumber" priority="0" />
+      <Item value="query" priority="5" />
+      <Item value="NamesRepository`0" priority="0" />
+      <Item value="results" priority="5" />
+      <Item value="r" priority="0" />
+      <Item value="SearchResults`0" priority="0" />
+      <Item value="names" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="object" priority="1" />
+      <Item value="EventArgs`0" priority="2" />
+      <Item value="tbSearch" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="ConnectionStringSettings`0" priority="0" />
+      <Item value="Toolbox`0" priority="17" />
+      <Item value="BasicSearcher" priority="0" />
+      <Item value="prop" priority="4" />
+      <Item value="searcher" priority="0" />
+      <Item value="foreach" priority="4" />
+      <Item value="rptResults" priority="0" />
+      <Item value="Eval`0" priority="3" />
+      <Item value="Container" priority="0" />
+      <Item value="if" priority="4" />
+      <Item value="solrOperations" priority="0" />
+      <Item value="Startup`0" priority="4" />
+      <Item value="ServiceLocator`0" priority="6" />
+      <Item value="null" priority="1" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="Practices" priority="0" />
+      <Item value="ServiceLocation" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="instances" priority="1" />
+      <Item value="class" priority="1" />
+      <Item value="SolrBaseRepository`0" priority="1" />
+      <Item value="instance" priority="0" />
+      <Item value="Type`0" priority="0" />
+      <Item value="T`0" priority="0" />
+      <Item value="res" priority="0" />
+      <Item value="rdr" priority="2" />
+      <Item value="as" priority="0" />
+      <Item value="Response" priority="0" />
+      <Item value="Request" priority="0" />
+      <Item value="q" priority="0" />
+      <Item value="String`0" priority="1" />
+      <Item value="SpellCheck" priority="0" />
+      <Item value="SpellCheckingParameters" priority="0" />
+      <Item value="Collate" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="SpellChecking" priority="0" />
+      <Item value="litSearchSuggestion" priority="4" />
+      <Item value="sc" priority="1" />
+      <Item value="postEventSourceID" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="s" priority="3" />
+      <Item value="cmd" priority="6" />
+      <Item value="cn" priority="1" />
+      <Item value="SqlDataReader`0" priority="2" />
+      <Item value="SqlConnection`0" priority="0" />
+      <Item value="SqlCommand`0" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="catch" priority="1" />
+      <Item value="finally" priority="1" />
+      <Item value="ConfigurationErrorsException`0" priority="1" />
+      <Item value="throw" priority="1" />
+      <Item value="ex" priority="2" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="SqlDataReader" priority="0" />
+      <Item value="firstname" priority="1" />
+      <Item value="tbLastName" priority="1" />
+      <Item value="tbFirstName" priority="0" />
+      <Item value="lastname" priority="2" />
+      <Item value="position" priority="4" />
+      <Item value="ddlPosition" priority="0" />
+      <Item value="Page`0" priority="0" />
+      <Item value="PlayerRepository`0" priority="1" />
+      <Item value="Player" priority="2" />
+      <Item value="FirstName" priority="2" />
+      <Item value="Player`0" priority="1" />
+      <Item value="player" priority="6" />
+      <Item value="LastName" priority="1" />
+      <Item value="Position" priority="1" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="firstName" priority="0" />
+      <Item value="lastName" priority="1" />
+      <Item value="ExecSql`0" priority="0" />
+      <Item value="specificPlayer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.BasicIndexer">
+      <Item value="_connString" priority="0" />
+      <Item value="_solrUrl" priority="0" />
+      <Item value="solrUrl" priority="0" />
+      <Item value="connString" priority="0" />
+      <Item value="IndexNames`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Practices.ServiceLocation.ServiceLocator">
+      <Item value="Current" priority="7" />
+      <Item value="SetLocatorProvider`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.ServiceLocation.IServiceLocator">
+      <Item value="GetInstance`1" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.SolrFieldsRepository">
+      <Item value="GetNames`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SolrNet.ISolrOperations`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Commit`0" priority="2" />
+      <Item value="Query`0" priority="0" />
+      <Item value="BuildSpellCheckDictionary`0" priority="0" />
+      <Item value="Delete`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SolrNet.ResponseHeader">
+      <Item value="Params" priority="0" />
+      <Item value="Status" priority="1" />
+      <Item value="QTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationSettings">
+      <Item value="AppSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.BasicSearcher">
+      <Item value="connString" priority="1" />
+      <Item value="solrUrl" priority="1" />
+      <Item value="Search`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Solr.SolrOperationsCache`1">
+      <Item value="GetSolrOperations`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.NamesRepository">
+      <Item value="GetNames`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SolrNet.ISolrQueryResults`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="Header" priority="0" />
+      <Item value="NumFound" priority="1" />
+      <Item value="SpellChecking" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Name">
+      <Item value="FirstName" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Solr.Toolbox">
+      <Item value="connString" priority="0" />
+      <Item value="ConnString" priority="0" />
+      <Item value="SolrUrl" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.SearchResults">
+      <Item value="Results" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RepeaterItem">
+      <Item value="DataItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Solr.Classes.Toolbox">
+      <Item value="GetLiteral`0" priority="0" />
+      <Item value="SolrUrl" priority="2" />
+      <Item value="Db`0" priority="2" />
+      <Item value="ConnString" priority="2" />
+      <Item value="GetMasterLiteral`0" priority="0" />
+      <Item value="FormatChars`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Literal">
+      <Item value="Text" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SolrNet.Startup">
+      <Item value="Init`1" priority="1" />
+      <Item value="Container" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SolrNet.Utils.Container">
+      <Item value="GetService`0" priority="0" />
+      <Item value="GetInstance`1" priority="0" />
+      <Item value="GetAllInstances`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Solr.Classes.SolrBaseRepository">
+      <Item value="Instance`0" priority="0" />
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.SolrBaseRepository+Instance">
+      <Item value="Start`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.Name">
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Redirect`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="QueryString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.SearchResults">
+      <Item value="Results" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SolrNet.Impl.SpellCheckResult">
+      <Item value="Query" priority="0" />
+      <Item value="Suggestions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.BasicIndexer">
+      <Item value="IndexPlayers`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="CommandText" priority="2" />
+      <Item value="ExecuteReader`0" priority="0" />
+      <Item value="ExecuteNonQuery`0" priority="0" />
+      <Item value="Connection" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open`0" priority="1" />
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.Toolbox+Db">
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="SelectedValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.AddToIndex">
+      <Item value="Page" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.SolrBaseRepository+Instance`1">
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.PlayerRepository">
+      <Item value="GetPlayers`0" priority="0" />
+      <Item value="GetPlayer`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Solr.Classes.Player">
+      <Item value="FirstName" priority="1" />
+      <Item value="LastName" priority="1" />
+      <Item value="Position" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
