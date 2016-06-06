@@ -1,6 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
+Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/client/ruby/solr-ruby/solr/conf/* linguist-vendored
+Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/contrib/velocity/src/main/solr/conf/* linguist-vendored
+Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/example/example-DIH/solr/rss/conf/* linguist-vendored
+Apache SOLR with ASP.NET/solr/conf/* linguist-vendored
+Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/contrib/extraction/src/test/resources/* linguist-vendored
+Apache SOLR with ASP.NET/apache-solr-1.4.1/apache-solr-1.4.1/docs/api/* linguist-vendored
 # Custom for Visual Studio
 *.cs     diff=csharp
 
